@@ -491,7 +491,7 @@ Ranjita Nayanegali
 Engineering design
 
 ![image](https://github.com/CEER-G/G6/assets/131332446/15a2637d-9458-4568-8876-448a0cc8d257)
-![image](https://github.com/CEER-G/G6/assets/131332446/5c746a03-59fb-41d4-9fac-74609b49515d)
+
 
 # 5. Sprint 3:
 
